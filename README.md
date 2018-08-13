@@ -5,7 +5,7 @@
 - https://maps.gsi.go.jp/help/index.html
 - https://maps.gsi.go.jp/help/use.html
 
-#### Released under the GPL3 license
+## Released under the GPL3 license
 ##### license respect original scripts
 - https://raw.githubusercontent.com/klakar/QGIS_resources/master/collections/Geosupportsystem/python/qgis_basemaps.py
 
